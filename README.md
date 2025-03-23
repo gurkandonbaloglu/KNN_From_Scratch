@@ -41,8 +41,8 @@ The dataset should be saved as `wine.data` and is loaded inside the notebook.
 ## 🚀 How to Use
 
 ### 1. Using Google Colab or Jupyter Notebook
-- The notebook imports 'knn.py' to use the algorithm functions
-- You have to load 'knn.py' file to where you will run the code
+- The notebook imports `knn.py` to use the algorithm functions
+- You have to load `knn.py` file to where you will run the code
 - Open and run `analysis.ipynb`
 
 
