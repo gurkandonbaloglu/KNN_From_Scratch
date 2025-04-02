@@ -21,7 +21,13 @@ This project demonstrates a from-scratch implementation of the **K-Nearest Neigh
 - 13 numerical features  
 - 3 wine classes
 
-The dataset should be saved as `wine.data` and is loaded inside the notebook.
+  ## 📥 Download the Dataset
+
+You can download the Wine dataset from the link below:
+
+🔗 [Wine Data Set - UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/109/wine)
+
+Import the file `wine.data` in your project directory.
 
 ---
 
@@ -41,10 +47,14 @@ The dataset should be saved as `wine.data` and is loaded inside the notebook.
 ## 🚀 How to Use
 
 ### 1. Using Google Colab or Jupyter Notebook
-- Firstl, install the dependencies
-- The notebook imports `knn.py` to use the algorithm functions
-- You have to load `knn.py` file to where you will run the code
-- Open and run `analysis.ipynb`
+- **Install the required dependencies.**
+- **Download the Wine dataset** from [here](https://archive.ics.uci.edu/dataset/109/wine) 
+- **Set the `file_path` variable** in the notebook to the relative path of the `wine.data` file.
+- **Place the `wine.data` file** in the same folder as the notebook for convenience.
+- The notebook **imports `knn.py`** to access the custom KNN algorithm functions.
+- **Ensure `knn.py` is in the same directory** where you run the notebook.
+- **Open and run `analysis.ipynb`.**
+
 
 
 ### 2. In a local Python environment
