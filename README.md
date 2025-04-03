@@ -4,7 +4,7 @@ This project demonstrates a from-scratch implementation of the **K-Nearest Neigh
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 .
@@ -14,14 +14,14 @@ This project demonstrates a from-scratch implementation of the **K-Nearest Neigh
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 **Wine Dataset**  
 - Contains 178 samples  
 - 13 numerical features  
 - 3 wine classes
 
-  ## 📥 Download the Dataset
+  ## Download the Dataset
 
 You can download the Wine dataset from the link below:
 
@@ -31,7 +31,7 @@ Import the file `wine.data` in your project directory.
 
 ---
 
-## ⚙️ Features
+## Features
 
 - Custom KNN implementation (no ML libraries)
 - Supported distance metrics:
@@ -44,7 +44,7 @@ Import the file `wine.data` in your project directory.
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 ### 1. Using Google Colab or Jupyter Notebook
 - **Install the required dependencies.**
@@ -66,7 +66,7 @@ jupyter notebook analysis.ipynb
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 - `numpy`
 - `pandas`
